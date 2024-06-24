@@ -1,0 +1,88 @@
+{
+    "cuisine": "Italian",
+    "recipes": [
+      {
+        "recipe_name": "Lasagna",
+        "ingredients": [
+          "Lasagna noodles",
+          "1 lb ground beef",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "2 cups ricotta cheese",
+          "1 cup grated Parmesan cheese",
+          "2 cups shredded mozzarella cheese",
+          "1 teaspoon dried basil",
+          "1 teaspoon dried oregano",
+          "Salt and freshly ground black pepper",
+          "Olive oil"
+        ],
+        "method": [
+          "Preheat oven to 375°F (190°C).",
+          "Cook lasagna noodles according to package instructions; drain and set aside.",
+          "In a large skillet, heat olive oil over medium-high heat. Add chopped onion and minced garlic, sauté until softened.",
+          "Add ground beef, breaking it up with a spoon, and cook until browned. Drain excess fat if necessary.",
+          "Stir in crushed tomatoes, dried basil, dried oregano, salt, and pepper. Simmer for about 10 minutes.",
+          "In a bowl, combine ricotta cheese, grated Parmesan cheese, and half of the shredded mozzarella cheese.",
+          "In a large baking dish, spread a thin layer of the meat sauce. Layer with lasagna noodles, ricotta mixture, and meat sauce, repeating until all ingredients are used, ending with a layer of meat sauce.",
+          "Sprinkle remaining shredded mozzarella cheese on top.",
+          "Cover with foil and bake for 30 minutes. Remove foil and bake for an additional 10-15 minutes until bubbly and cheese is melted and lightly browned.",
+          "Let stand for 10 minutes before serving."
+        ]
+      },
+      {
+        "recipe_name": "Risotto ai Funghi (Mushroom Risotto)",
+        "ingredients": [
+          "1 cup Arborio rice",
+          "4 cups chicken or vegetable broth, heated",
+          "1 onion, finely chopped",
+          "2 cloves garlic, minced",
+          "1/2 cup dry white wine",
+          "8 oz mushrooms (such as cremini or shiitake), sliced",
+          "1/2 cup grated Parmesan cheese",
+          "2 tablespoons butter",
+          "2 tablespoons olive oil",
+          "Salt and freshly ground black pepper",
+          "Fresh parsley, chopped (for garnish)"
+        ],
+        "method": [
+          "In a large skillet or pan, heat olive oil and 1 tablespoon of butter over medium heat.",
+          "Add chopped onion and minced garlic, sauté until softened and translucent.",
+          "Add sliced mushrooms and cook until they release their juices and become tender.",
+          "Add Arborio rice to the skillet, stirring constantly for about 1-2 minutes until rice is lightly toasted.",
+          "Pour in white wine and cook until it has been absorbed by the rice, stirring frequently.",
+          "Begin adding hot broth to the rice mixture, one ladleful at a time, stirring frequently and allowing each addition to be absorbed before adding more.",
+          "Continue this process until the rice is creamy and tender, but still slightly firm to the bite (al dente). This will take about 20-25 minutes.",
+          "Stir in grated Parmesan cheese and remaining tablespoon of butter. Season with salt and pepper to taste.",
+          "Garnish with chopped parsley before serving."
+        ]
+      },
+      {
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+          "1 cup strong brewed coffee, cooled",
+          "3 tablespoons coffee liqueur (such as Kahlua) (optional)",
+          "24 ladyfinger cookies (savoiardi)",
+          "4 large eggs, separated",
+          "1 cup granulated sugar, divided",
+          "16 oz mascarpone cheese",
+          "1 teaspoon vanilla extract",
+          "Cocoa powder, for dusting"
+        ],
+        "method": [
+          "In a shallow dish, combine cooled brewed coffee and coffee liqueur (if using).",
+          "In a mixing bowl, beat egg yolks and 3/4 cup granulated sugar until pale and creamy.",
+          "Add mascarpone cheese and vanilla extract, beat until smooth and creamy.",
+          "In another mixing bowl, beat egg whites until soft peaks form. Gradually add remaining 1/4 cup granulated sugar and continue beating until stiff peaks form.",
+          "Gently fold beaten egg whites into the mascarpone mixture until well combined.",
+          "Quickly dip each ladyfinger cookie into the coffee mixture, turning to coat both sides but not soaking.",
+          "Arrange a layer of dipped ladyfingers in the bottom of a serving dish.",
+          "Spread half of the mascarpone mixture over the ladyfingers.",
+          "Repeat with another layer of dipped ladyfingers and remaining mascarpone mixture.",
+          "Cover and refrigerate for at least 4 hours or overnight to set.",
+          "Before serving, dust with cocoa powder using a fine-mesh sieve."
+        ]
+      }
+    ]
+  }
+  
